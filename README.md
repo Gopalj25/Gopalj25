@@ -1,9 +1,8 @@
 
 # Hi there! 👋 I'm Gopal Jaju
----
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiastic;Problem+Solver;Critical+Thinker!;Actively+Upskilling!" alt="Typing SVG" />
 </div>
 
 - 🎓 B.Tech in Computer Science & Engineering (AI/ML)
@@ -35,6 +34,8 @@ My interests include NLP, real-time applications, and solving real-world problem
 
 ---
 
-## Connect with me
+## 👉Connect with me
 - 🔗[LinkedIn](https://www.linkedin.com/in/gopaljaju)
-- 📬 Email: gopaljajuofficial@gmail.com
+- 📬 Email: gopaljaju25@gmail.com
+---
+> Sometimes my ML models are like me before coffee—**confused but trying their best.**
