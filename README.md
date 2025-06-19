@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi there! 👋 I'm Gopal jaju
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Full+Stack+Developer;Problem+Solver;Always+Learning!" alt="Typing SVG" />
+</div>
 
-<!--
-**Gopalj25/Gopalj25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech in Computer Science & Engineering [AI & ML]
+🏫 G H Raisoni College of Engineering & Management, Pune
+📍 Pune, Maharashtra, India
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about ... Python, Machine learning, deep learning, etc
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+  
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/gopaljaju) | [Email](mailto:gopaljaju25@gmail.com)
