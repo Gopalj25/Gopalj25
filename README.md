@@ -14,9 +14,9 @@
 
 ## 🧠 About Me
 
-I'm an aspiring Data Analyst & Scientist and AI/ML enthusiast with a strong foundation in Python, data processing, and machine learning.  
-I enjoy uncovering insights from data, building models that make sense (most of the time 😄), and turning raw numbers into decisions.  
-My interests include NLP, real-time applications, and solving real-world problems using AI.  
+I am an aspiring Data Analyst and Scientist, as well as an AI/ML enthusiast with a solid foundation in Python, data processing, and machine learning.
+I enjoy uncovering insights from data, building models that make sense (most of the time 😄), and transforming raw numbers into actionable decisions. 
+My interests include natural language processing (NLP), real-time applications, and using AI to solve real-world problems.  
 
 - 🔍 Passionate about **Machine Learning, Data Analysis, Data science**, and turning data into stories
 - 💬 Ask me about: Python, Machine learning, deep learning, etc
