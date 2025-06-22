@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Gopal Jaju
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiastic;Problem+Solver;Critical+Thinker!;Actively+Upskilling!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Problem+Solver;Critical+Thinker!;Actively+Upskilling!" alt="Typing SVG" />
 </div>
 
 - 🎓 B.Tech in Computer Science & Engineering (AI/ML)
