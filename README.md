@@ -34,23 +34,39 @@ My interests include Computer Vision, NLP, computational optimisation,  and AI t
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gopalj25&show_icons=true&theme=tokyonight" alt="gopalj25 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gopalj25&theme=tokyonight" alt="gopalj25 streak" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=gopalj25&show_icons=true&theme=tokyonight"
+    alt="My stats"
+    width="45%" 
+    style="filter: drop-shadow(0 0 8px #36BCF7);"/>
+  &nbsp;&nbsp;
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=gopalj25&theme=tokyonight"
+    alt="My streak"
+    width="48%" 
+    style="filter: drop-shadow(0 0 8px #36BCF7);"/>
 </p>
 
 ---
 ## 👉 Connect with me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/gopaljaju" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gopaljaju25@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/gopaljaju" target="_blank">
-    <img src="https://img.icons8.com/glyph-neue/48/github.png" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/gopaljaju">
+    <img src="https://img.icons8.com/color/48/linkedin.png"
+         style="filter: drop-shadow(0 0 5px #36BCF7); border-radius:50%; padding:4px;">
+  </a>&nbsp;&nbsp;
+  <a href="mailto:gopaljaju25@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
+         style="filter: drop-shadow(0 0 5px #FF0000); border-radius:50%; padding:4px;">
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/gopalj25">
+    <img src="https://img.icons8.com/glyph-neue/48/github.png"
+         style="filter: drop-shadow(0 0 5px #000000); border-radius:50%; padding:4px;">
   </a>
 </p>
+
+
+
 
 ---
 
