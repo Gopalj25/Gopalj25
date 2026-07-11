@@ -1,5 +1,5 @@
 
-# Hii👋, I'm Gopal Jaju!
+# Hi👋, I'm Gopal Jaju!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=AI+%26+ML+Enthusiast;Problem+Solver;Critical+Thinker!;Actively+Upskilling!" alt="Typing SVG" />
@@ -13,21 +13,19 @@
 ### Welcome to my GitHub profile!
 ## 🧠 About Me
 
-I'm an aspiring Data Analyst and Scientist, and an AI/ML enthusiast with a solid foundation in Python, data processing, and machine learning.
-I enjoy uncovering insights from data, building models that make sense (most of the time 😄), and transforming raw numbers into actionable decisions. 
-My interests include Computer Vision, NLP, computational optimisation,  and AI to solve real-world problems.  
+Data & AI enthusiast with a solid foundation in Python, data processing, and machine learning. Enjoy turning complex datasets into meaningful insights through analysis, visualization, and predictive modeling. My interests span LLMs, AI agents, Computer Vision, NLP, computational optimization, and leveraging AI to build practical, data-driven solutions. 
 
-- 💬 Ask me about: Python, Machine learning, deep learning, OpenCV
-- ✨ Always open to new opportunities, collaborations, and good memes
+- ✨ Passionate about learning, collaborating, and exploring new opportunities in Data and AI.
   
 ---
 
 ## 🛠 Skills & Technologies
 
-**🗣 Languages:** Python, C/C++, SQL  
-**📚 Libraries & Frameworks:** Pandas, NumPy, scikit-learn, MediaPipe, TensorFlow, PyTorch  
-**🗄 Databases:** MySQL, SQLite  
-**🧰 Tools:** Git, Google Colab, MS Power BI, VS Code, Jupyter 
+- **Languages:** Python, C/C++, SQL  
+- **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch  
+- **AI/ML:** Machine Learning, Deep Learning, Agentic AI, Generative AI, LLMs  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools:** Git, Google Colab, Power BI, Excel, Jupyter Notebook, CI/CD, Docker
 
 ---
 
@@ -51,23 +49,17 @@ My interests include Computer Vision, NLP, computational optimisation,  and AI t
 ## 👉 Connect with me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gopaljaju">
-    <img src="https://img.icons8.com/color/48/linkedin.png"
-         style="filter: drop-shadow(0 0 5px #36BCF7); border-radius:50%; padding:4px;">
-  </a>&nbsp;&nbsp;
-  <a href="mailto:gopaljaju25@gmail.com">
-    <img src="https://img.icons8.com/color/48/gmail-new.png"
-         style="filter: drop-shadow(0 0 5px #FF0000); border-radius:50%; padding:4px;">
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/gopalj25">
-    <img src="https://img.icons8.com/glyph-neue/48/github.png"
-         style="filter: drop-shadow(0 0 5px #000000); border-radius:50%; padding:4px;">
+  <a href="https://www.linkedin.com/in/gopaljaju" aria-label="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/24/ffffff/linkedin.png" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:gopaljaju25@gmail.com" aria-label="Email">
+    <img src="https://img.icons8.com/ios-filled/24/ffffff/new-post.png" alt="Email" />
   </a>
 </p>
 
 
 
-
 ---
 
-> Sometimes my ML models are like me before coffee—**confused but trying their best.**
+> Sometimes my ML models are like me before coffee—**confused but trying their best.😅**
