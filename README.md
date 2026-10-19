@@ -23,9 +23,9 @@ Data & AI enthusiast with a solid foundation in Python, data processing, and mac
 
 - **Languages:** Python, C/C++, SQL  
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, PyTorch  
-- **AI/ML:** Machine Learning, Deep Learning, Agentic AI, Generative AI, LLMs  
+- **AI/ML:** Machine Learning, Deep Learning, Agentic AI, Generative AI, LLMs, RAG 
 - **Databases:** MySQL, PostgreSQL  
-- **Tools:** Git, Google Colab, Power BI, Excel, Jupyter Notebook, CI/CD, Docker
+- **Tools:** Git, Google Colab, Power BI, Excel, Jupyter Notebook
 
 ---
 
